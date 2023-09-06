@@ -1,14 +1,15 @@
 ## Proposal
 
 ### Please re-state the problem that we are trying to solve in this issue.
-
+Design in mobile and API integration and filtering
 ### What is the root cause of that problem?
-
+API delay and apply state variable
 ### What changes do you think we should make in order to solve the problem?
 <!-- DO NOT POST CODE DIFFS -->
-
+Componentization while building project 
+API Integration, filter function, layout, pixel perfect
 ### What alternative solutions did you explore? (Optional)
-
+After runing time of API to get currency , it is to use it.
 **Reminder:** Please use plain English, be brief and avoid jargon. Feel free to use images, charts or pseudo-code if necessary. Do not post large multi-line diffs or write walls of text. Do not create PRs unless you have been hired for this job.
 
 <!---
